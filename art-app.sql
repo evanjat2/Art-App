@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Apr 29, 2021 at 12:59 AM
+-- Generation Time: Apr 29, 2021 at 01:24 AM
 -- Server version: 10.4.17-MariaDB
 -- PHP Version: 8.0.2
 
@@ -45,7 +45,6 @@ INSERT INTO `users` (`id`, `firstname`, `lastname`, `emailaddress`, `username`, 
 (2, 'a', 'b', 'c', 'd', 'e'),
 (3, 'a', 'a', 'a', 'a', 'a'),
 (4, 'Evan', 'Ananda Jati', 'evan.a.j@mail.ugm.ac.id', 'evanjat2', 'aku kamu dan dia'),
-(5, 'Evan', 'Ananda', 'evan.a.j@mail.ugm.ac.id', 'annsteve', 'Feramicy1'),
 (6, 'a', 'a', 'a', 'c', 'a');
 
 --
